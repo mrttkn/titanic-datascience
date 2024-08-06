@@ -18,7 +18,12 @@ Algorithms Used
 Random Forest
 Logistic Regression
 KNN Classifier
+
 How to Run
+
 Clone the repository.
+
 Install the required libraries.
+
 Run the Jupyter Notebook to see the data analysis, model training, and evaluation steps.
+
